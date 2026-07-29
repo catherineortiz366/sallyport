@@ -32,3 +32,4 @@ Notes and usage details for sallyport.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- link the usage section
